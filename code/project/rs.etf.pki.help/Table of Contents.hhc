@@ -1,0 +1,90 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<meta name="GENERATOR" content="Microsoft&reg; HTML Help Workshop 4.1">
+<!-- Sitemap 1.0 -->
+</HEAD><BODY>
+<OBJECT type="text/site properties">
+	<param name="ImageType" value="Folder">
+</OBJECT>
+<UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Vrste korisnika">
+		</OBJECT>
+	<UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Administrator">
+			<param name="Local" value="Administrator.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Laborant">
+			<param name="Local" value="Laborant.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Nastavnik">
+			<param name="Local" value="Nastavnik.htm">
+			</OBJECT>
+	</UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Pretraga">
+		</OBJECT>
+	<UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Pretraga slobodnih termina po zadatim parametrima">
+			<param name="Local" value="Pretraga slobodnih termina po zadatim parametrima.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Pretraga zauzetih termina po zadatim parametrima">
+			<param name="Local" value="Pretraga zauzetih termina po zadatim parametrima.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Pregled sopstvenih rezervacija">
+			<param name="Local" value="Pregled sopstvenih rezervacija.htm">
+			</OBJECT>
+	</UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Kreiranje">
+		</OBJECT>
+	<UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Kreiranje, pretraga i izmena korisnika">
+			<param name="Local" value="Kreiranje, pretraga i izmena korisnika.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Kreiranje nove sale">
+			<param name="Local" value="Kreiranje nove sale.htm">
+			</OBJECT>
+	</UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Dodavanje">
+		</OBJECT>
+	<UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Dodeljivanje-Oduzimanje sale laborantu">
+			<param name="Local" value="Dodeljivanje-Oduzimanje sale laborantu.htm">
+			</OBJECT>
+	</UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Izmena">
+		</OBJECT>
+	<UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Izmena parametara sale ili brisanje sale">
+			<param name="Local" value="Izmena parametara sale ili brisanje sale.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Izmena parametara sale">
+			<param name="Local" value="Izmena parametara sale.htm">
+			</OBJECT>
+	</UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Rezervisanje">
+		</OBJECT>
+	<UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Rezervisanje slobodnog termina, promena i brisanje rezervacije">
+			<param name="Local" value="Rezervisanje slobodnog termina, promena i brisanje rezervacije.htm">
+			</OBJECT>
+	</UL>
+</UL>
+</BODY></HTML>

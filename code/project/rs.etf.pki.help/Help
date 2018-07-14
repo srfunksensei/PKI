@@ -1,0 +1,26 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=..\rs.etf.pki.chm
+Contents file=Table of Contents.hhc
+Default Font=Times New Roman,10,1
+Display compile progress=No
+Index file=Index.hhk
+Language=0xc1a Serbian (Cyrillic)
+
+
+[FILES]
+Administrator.htm
+Dodeljivanje-Oduzimanje sale laborantu.htm
+Izmena parametara sale.htm
+Izmena parametara sale ili brisanje sale.htm
+Kreiranje nove sale.htm
+Kreiranje, pretraga i izmena korisnika.htm
+Laborant.htm
+Nastavnik.htm
+Pregled sopstvenih rezervacija.htm
+Pretraga slobodnih termina po zadatim parametrima.htm
+Pretraga zauzetih termina po zadatim parametrima.htm
+Rezervisanje slobodnog termina, promena i brisanje rezervacije.htm
+
+[INFOTYPES]
+
